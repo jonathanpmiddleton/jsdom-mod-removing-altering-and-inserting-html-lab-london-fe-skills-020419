@@ -2,5 +2,5 @@
 main.remove();
 /* Create your new element here and assign it to newHeader */
 const newHeader = h1;
-var h1 = document.createElement("victory");
+document.createElement(tagName)
 victory ="(Jonathan is the champion!)";
