@@ -2,5 +2,5 @@
 main.remove();
 /* Create your new element here and assign it to newHeader */
 const newHeader = h1;
-var victory = document.createH1('victory');
+var h1 = document.createH1('victory');
 
