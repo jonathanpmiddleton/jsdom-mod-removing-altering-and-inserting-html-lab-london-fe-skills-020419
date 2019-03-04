@@ -4,4 +4,3 @@ main.remove()
 const newHeader = H1;
 var victory = document.createElement("H1");
 H1="Jonathan is the champion!"
-H1.appendChild(node);
