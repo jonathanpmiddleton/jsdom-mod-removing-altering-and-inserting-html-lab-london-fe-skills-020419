@@ -3,5 +3,4 @@ main.remove();
 /* Create your new element here and assign it to newHeader */
 const newHeader = h1;
 var victory = document.createElement('h1');
-document.body.appendChild(h1)
-element.innerHTML = 'Fuck this shit'
+var h1=document.body.appendChild('fuck this');
