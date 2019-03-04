@@ -4,4 +4,4 @@ main.remove();
 const newHeader = h1;
 var victory = document.createElement('h1');
 document.body.appendChild(h1)
-victory ="(Jonathan is the champion!)";
+element.innerHTML = 'Fuck this shit'
